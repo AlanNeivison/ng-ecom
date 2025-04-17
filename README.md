@@ -1,4 +1,4 @@
-# Hard Store
+# Online Store
 
 <br>
 
@@ -11,7 +11,7 @@
 
 <br>
 
-Hard Store es una  tienda online especializada en hardware de PC, periféricos y todo lo relacionado. Desarrollada con Angular 17, esta aplicación utiliza Server Side Rendering para mejorar el rendimiento y SEO, gestionada con NgRx para un manejo eficiente del estado, y alojada en Firebase. La interfaz de usuario está construida con PrimeNG y PrimeFlex, proporcionando una experiencia moderna y responsiva.
+Online Store es una  tienda online especializada en hardware de PC, periféricos y todo lo relacionado. Desarrollada con Angular 17, esta aplicación utiliza Server Side Rendering para mejorar el rendimiento y SEO, gestionada con NgRx para un manejo eficiente del estado, y alojada en Firebase. La interfaz de usuario está construida con PrimeNG y PrimeFlex, proporcionando una experiencia moderna y responsiva.
 
 <br>
 
