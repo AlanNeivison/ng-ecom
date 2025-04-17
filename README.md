@@ -11,7 +11,7 @@
 
 <br>
 
-Online Store es una  tienda online especializada en hardware de PC, periféricos y todo lo relacionado. Desarrollada con Angular 17, esta aplicación utiliza Server Side Rendering para mejorar el rendimiento y SEO, gestionada con NgRx para un manejo eficiente del estado, y alojada en Firebase. La interfaz de usuario está construida con PrimeNG y PrimeFlex, proporcionando una experiencia moderna y responsiva.
+Online Store is an online store specializing in PC hardware, peripherals, and everything related. Developed with Angular 17, this app uses Server Side Rendering to improve performance and SEO, is powered by NgRx for efficient state management, and is hosted on Firebase. The user interface is built with PrimeNG and PrimeFlex, providing a modern and responsive experience.
 
 <br>
 
@@ -22,13 +22,13 @@ Online Store es una  tienda online especializada en hardware de PC, periféricos
 
 ## Funcionalidades
 
-- **Registro e Inicio de Sesión**: Los usuarios pueden registrarse y acceder a sus cuentas.
-- **Gestión de Pedidos y Compras**: Los usuarios pueden gestionar sus pedidos y el historial de compras.
-- **Favoritos**: Los usuarios pueden añadir productos a su lista de favoritos.
-- **Catálogo de Productos**: Visualiza el catálogo completo de productos disponibles.
-- **Filtros y Ordenación**: Filtra los productos por categorías y ordénalos según diferentes criterios.
-- **Barra de Búsqueda**: Busca productos rápidamente usando la barra de búsqueda.
-- **Sección "Armá tu PC"**: Guía paso a paso para escoger componentes y armar una PC a medida.
+- **Registration and Login**: Users can register and access their accounts.
+- **Order and Purchase Management**: Users can manage their orders and purchase history.
+- **Favorites**: Users can add products to their favorites list.
+- **Product Catalog**: View the full catalog of available products.
+- **Filters and Sort**: Filter products by category and sort them according to different criteria.
+- **Search Bar**: Quickly search for products using the search bar.
+- **Build Your PC Section**: Step-by-step guide to choosing components and building a custom PC.
 
 <br>
 
@@ -46,11 +46,11 @@ Online Store es una  tienda online especializada en hardware de PC, periféricos
 
 ## Tecnologías Usadas
 
-- **Angular 17**: Framework principal para el desarrollo frontend.
-- **Server Side Rendering**: Mejoras en rendimiento y SEO.
-- **NgRx**: Gestión del estado de la aplicación.
-- **Firebase**: Backend para autenticación, base de datos y hosting.
-- **PrimeNG**: Componentes de UI para Angular.
-- **PrimeFlex**: Utilidades CSS para diseños responsivos.
+- **Angular 17**: Core framework for front-end development.
+- **Server Side Rendering**: Performance and SEO improvements.
+- **NgRx**: Application state management.
+- **Firebase**: Backend for authentication, databases, and hosting.
+- **PrimeNG**: UI components for Angular.
+- **PrimeFlex**: CSS utilities for responsive designs.
   
 <br>
